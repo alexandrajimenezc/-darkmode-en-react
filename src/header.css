@@ -1,0 +1,19 @@
+.header{
+    background: var(--light-gray);
+   /*   border: 1px solid red;  */
+    padding-bottom: 100px;
+    border-radius: 0 0 20px 20px;
+    padding-top: 2em;
+    /* display: none;  esto para no scroll mientras se hace el layout*/
+}
+.header-total{
+    color: var(--gray);
+    margin: .5em 0;
+    font-weight: 700;
+    border-bottom: 1px solid var(--gray);
+    padding-bottom: 1.5em;
+  }
+h1{
+   /*  margin:0; */
+    font-size: 1.5em;
+  }

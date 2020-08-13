@@ -1,0 +1,6 @@
+.top-cards{
+    /*     display: none;  esto para no scroll mientras se hace el layout*/
+      /*   border: 1px solid pink; */
+        margin-top: -50px;
+        margin-bottom:3em ;
+    }
